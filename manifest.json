@@ -1,0 +1,26 @@
+{
+  "name": "DailyNews Web",
+  "short_name": "DailyNews",
+  "description": "తాజా తెలుగు వార్తలు - DailyNews Web",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#cc0000",
+  "lang": "te",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/ch3FXdSG/file-0000000081888208a8062032547939a6-1.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/ch3FXdSG/file-0000000081888208a8062032547939a6-1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
